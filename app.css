@@ -1,0 +1,89 @@
+body{
+    font-family: "Courier New", Courier, monospace;
+    color:lightgrey;
+}
+
+h2,p,.readme-wrapper{
+    text-align:center;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+}
+a:hover{
+    font: bold;
+    color:green;
+}
+span{
+    font-weight:900;
+    color:green;
+}
+
+.boxes{
+    margin: 1em;
+    padding: 3em;
+    border:solid;
+    border-color: black;
+    border-radius: 2em;
+    width:30em;
+    display: block;
+}
+
+#box1{
+    background-color:blue;
+}
+#box2{
+    background-color:darkblue;
+}
+#box3{
+    background-color:darkslategrey;
+}
+#box4{
+    background-color:darkolivegreen
+}
+
+.image{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkorchid;
+    position:relative;
+    top:3.5em;
+    left:4em;
+}
+
+h1{
+    color:darksalmon;
+}
+.original{
+    color:darksalmon;
+}
+
+.additional{
+    color:darkorange;
+}
+#n1,#n3,#n5{
+    color:red;
+}
+
+#n2,#n4{
+   color:blue; 
+}
+ul{
+    color:darkslategray;
+}
+
+.star{
+    color:purple;
+}
+
+#wars{
+    color:turquoise;
+}
+
+.list{
+    border:solid;
+    border-color: black;
+    border-width: 2px;
+}
